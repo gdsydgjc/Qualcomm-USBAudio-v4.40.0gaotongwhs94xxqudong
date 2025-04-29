@@ -1,0 +1,1 @@
+# Qualcomm-USBAudio-v4.40.0gaotongwhs94xxqudong
